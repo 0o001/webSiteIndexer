@@ -1,0 +1,6 @@
+C:\Users\musta\source\repos\webSiteIndexer\webSiteIndexer\bin\Debug\webSiteIndexer.exe.config
+C:\Users\musta\source\repos\webSiteIndexer\webSiteIndexer\bin\Debug\webSiteIndexer.exe
+C:\Users\musta\source\repos\webSiteIndexer\webSiteIndexer\bin\Debug\webSiteIndexer.pdb
+C:\Users\musta\source\repos\webSiteIndexer\webSiteIndexer\obj\Debug\webSiteIndexer.csprojAssemblyReference.cache
+C:\Users\musta\source\repos\webSiteIndexer\webSiteIndexer\obj\Debug\webSiteIndexer.exe
+C:\Users\musta\source\repos\webSiteIndexer\webSiteIndexer\obj\Debug\webSiteIndexer.pdb
